@@ -1,7 +1,6 @@
 # PDF-Toolkit Telegram Bot
 
-A Telegram bot to manage PDFs and images efficiently. Users can upload images or PDFs and perform operations like creating PDFs from images, merging PDFs, splitting PDFs, extracting text, and converting PDFs to Word. All files are safely stored in a private Telegram channel.
-
+A Telegram bot to manage PDFs and images efficiently. Users can upload images or PDFs and perform operations like creating PDFs from images, merging PDFs, splitting PDFs, extracting text, and converting PDFs to Word. 
 ---
 
 ## Features
